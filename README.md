@@ -1,7 +1,7 @@
 I. PENDAHULUAN
 Terima kasih telah memilih KASIRKU sebagai sistem Point of Sales untuk usaha Anda. Pada laman ini, kami akan memberitahu tentang kebijakan privasi milik kami.
 
-UMKM Developer (“KASIRKU”, “kami”) adalah pemilik situs aplikasi KASIRKU (“Aplikasi”).
+UMKM Developer (“KASIRKU”, “kami”) adalah pemilik aplikasi KASIRKU (“Aplikasi”).
 
 Di KASIRKU, kami ingin memberikan pelayanan terbaik bagi Anda untuk mempermudah usaha milik Anda. Untuk itu, kami perlu mengetahui identitas pribadi serta informasi perusahaan Anda selaku pengguna layanan kami (“Pelanggan”, “Anda”). Privasi dan keamanan data Anda merupakan hal yang sangat penting bagi kami. Oleh karena itu, kami ingin menjelaskan bagaimana kami menyimpan, mengumpulkan, mengolah, membagikan, dan menggunakan data dan informasi Anda (“Kebijakan Privasi”). Kami akan menjekaskan maksud kebijakan privasi secara rinci di bawah ini.
 
